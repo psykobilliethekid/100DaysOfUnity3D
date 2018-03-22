@@ -1,9 +1,9 @@
 # 100 Days Of Unity
 
-Repo to track my progress for completing the 100 Days of Unity challenge.
+**Repo to track my progress for completing the 100 Days of Unity challenge.**
 
 I will have different ReadMe files showing my progress for each tutorial or book I complete. I will have my progress tracked with a check list for each tutorial or book I complete. As I finish a section or exercise I will check off the area and place the date of completion on the same line.
-
+___
 **Goals:**
 1. Code for at least 1hr a day
 2. Be able to show something that "works" each day
