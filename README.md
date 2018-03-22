@@ -1,10 +1,15 @@
 # 100 Days Of Unity
-
 **Repo to track my progress for completing the 100 Days of Unity challenge.**
-
-I will have different ReadMe files showing my progress for each tutorial or book I complete. I will have my progress tracked with a check list for each tutorial or book I complete. As I finish a section or exercise I will check off the area and place the date of completion on the same line.
 ___
-**Goals:**
+## Motivation
+I've been wanting to get back into making games in Unity3D for some time. Going off of my pattern of coding everyday for the 100 Days Of Code challenge, I decided to create my own challenge of 100 Days of Unity. 
+___
+## Synopsis
+For 100 days, I will work on something in Unity and post my progress on Github. I'll be using a mix of online tutorials from Udemy and YouTube, as well as ebooks I have found that go over something I am interesting in making in Unity. I'm going to use [a technique my fellow 100 Days Of Code challenge members came up with](https://twitter.com/pilifdz/status/962853781036703744), and will create a check box list of all the parts of the video or book that I complete and show the date of their completion. 
+
+I'll have individual ReadMe files for each source I use to complete my work in Unity. This will also help for others who would like to use the same resource in the future. 
+___
+## Goals
 1. Code for at least 1hr a day
 2. Be able to show something that "works" each day
 3. Post progress on Medium with tag 100 Days of Unity
