@@ -14,5 +14,5 @@ ___
 2. Be able to show something that "works" each day
 3. Post progress on Medium with tag 100 Days of Unity
 4. Record completed areas on Github in Markdown checklist
-5. Tweet progress with the hashtag #100DaysOfUnity
+5. Tweet progress with the hashtag [#100DaysOfUnity](https://twitter.com/search?q=%23100DaysOfUnity&src=typd)
 6. Try not to miss more than 2 days in a row (The hardest rule to follow!)
