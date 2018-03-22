@@ -1,8 +1,9 @@
 # Ultimate Guide to Game Development with Unity
-## Author: Jonathan Weinberger
-### Source: [Udemy](https://www.udemy.com/the-ultimate-guide-to-game-development-with-unity/)
+**Author: Jonathan Weinberger**
+**Source: [Udemy](https://www.udemy.com/the-ultimate-guide-to-game-development-with-unity/)**
 ___
-####Description** The Ultimate Guide to Game Development with Unity introduces you to the Unity Engine and to the fundamentals of C# programming. The course then dives into developing your first 2D and 3D games.
+#### Description** 
+The Ultimate Guide to Game Development with Unity introduces you to the Unity Engine and to the fundamentals of C# programming. The course then dives into developing your first 2D and 3D games.
 ___
 ### Lessons
 #### Introduction
