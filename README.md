@@ -1,4 +1,4 @@
-# 100 Days Of Unity
+# 100 Days Of Unity3D
 **Repo to track my progress for completing the 100 Days of Unity challenge.**
 ___
 ## Motivation
