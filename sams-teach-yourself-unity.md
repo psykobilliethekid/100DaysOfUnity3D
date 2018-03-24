@@ -21,13 +21,13 @@ ___
 
 ___
 #### Hour 2 Game Objects
-- [ ] Dimensions and Coordinate Systems
-- [ ] Game Objects
-- [ ] Transforms
-- [ ] Summary
-- [ ] Q&A
-- [ ] Workshop
-- [ ] Exercise
+- [x] Dimensions and Coordinate Systems
+- [x] Game Objects
+- [x] Transforms
+- [x] Summary
+- [x] Q&A
+- [x] Workshop
+- [x] Exercise
 
 #### Hour 3 Models, Materials, and Textures
 - [ ] The Basics of Models
