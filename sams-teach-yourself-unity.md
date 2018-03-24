@@ -37,8 +37,9 @@ ___
 - [x] Workshop
 - [x] Exercise
 
+![Chapter 03 Materials Exercise](/img/ch03-materials.jpg)
+
 ** Completed on 3/24/18
-![Chapter 03 Materials Exercise](/img/logo.png)
 ___
 
 #### Hour 4 Terrain
