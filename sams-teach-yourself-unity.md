@@ -7,15 +7,19 @@ In just 24 lessons of one hour or less, Sams Teach Yourself Unity Game Developme
 ___
 ### Lessons
 #### Preface
+- [x] Completed Preface
 #### Hour 1 Introduction to Unity
-- [ ] Instaling Unity
-- [ ] Getting to Know the Unity Editor
-- [ ] Navigating the Unity Scene View
-- [ ] Summary
-- [ ] Q&A
-- [ ] Workshop
-- [ ] Exercise
+- [x] Instaling Unity
+- [x] Getting to Know the Unity Editor
+- [x] Navigating the Unity Scene View
+- [x] Summary
+- [x] Q&A
+- [x] Workshop
+- [x] Exercise
 
+** Completed on 3/23/18
+
+___
 #### Hour 2 Game Objects
 - [ ] Dimensions and Coordinate Systems
 - [ ] Game Objects
