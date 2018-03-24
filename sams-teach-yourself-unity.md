@@ -38,6 +38,7 @@ ___
 - [x] Exercise
 
 ** Completed on 3/24/18
+![Chapter 03 Materials Exercise](/img/logo.png)
 ___
 
 #### Hour 4 Terrain
