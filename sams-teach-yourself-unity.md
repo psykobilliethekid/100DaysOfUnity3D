@@ -30,12 +30,15 @@ ___
 - [x] Exercise
 
 #### Hour 3 Models, Materials, and Textures
-- [ ] The Basics of Models
-- [ ] Textures, Shaders, and Materials
-- [ ] Summary
-- [ ] Q&A
-- [ ] Workshop
-- [ ] Exercise
+- [x] The Basics of Models
+- [x] Textures, Shaders, and Materials
+- [x] Summary
+- [x] Q&A
+- [x] Workshop
+- [x] Exercise
+
+** Completed on 3/24/18
+___
 
 #### Hour 4 Terrain
 - [ ] Terrain Generation
