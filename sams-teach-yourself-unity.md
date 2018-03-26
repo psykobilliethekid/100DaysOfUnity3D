@@ -50,6 +50,8 @@ ___
 - [x] Workshop
 ** Completed on 3/25/18
 ___
+![Chapter 04 Terrain from Heightmap](/img/heightmap.png)
+
 - [ ] Exercise
 
 #### Hour 5 Environments
