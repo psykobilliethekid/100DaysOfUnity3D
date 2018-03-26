@@ -43,11 +43,13 @@ ___
 ___
 
 #### Hour 4 Terrain
-- [ ] Terrain Generation
-- [ ] Terrain Textures
-- [ ] Summary
-- [ ] Q&A
-- [ ] Workshop
+- [x] Terrain Generation
+- [x] Terrain Textures
+- [x] Summary
+- [x] Q&A
+- [x] Workshop
+** Completed on 3/25/18
+___
 - [ ] Exercise
 
 #### Hour 5 Environments
